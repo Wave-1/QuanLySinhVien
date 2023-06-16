@@ -21,3 +21,6 @@ Học lực được tính như sau:
 + Tìm kiếm sinh viên theo tên.
 
 2 Xây dựng một chương trình Winform để thao tác với Web API vừa tạo.
+![image](https://github.com/Wave-1/QuanLySinhVien/assets/92417705/57eb01ec-c2b5-40fc-a249-6841f83de10c)
+
+
